@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\OpenWorld\Assets\openWorld\scripts\player\controller.js">
+    <Files>
+      <File FileName="..\..\..\Documents\OpenWorld\Assets\openWorld\scripts\player\controller.js" Line="4" Column="9" />
+      <File FileName="..\..\..\Desktop\Widget_Camera.js" Line="75" Column="56" />
+      <File FileName="..\..\..\Documents\OpenWorld\Assets\openWorld\scripts\player\camera.js" Line="75" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
